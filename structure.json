@@ -1,0 +1,3248 @@
+[
+    {
+        "name": "Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435",
+        "size": 152020826
+    },
+    {
+        "name": ".DS_Store",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435",
+        "size": 8196
+    },
+    {
+        "name": "HW",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 356211
+    },
+    {
+        "name": "HW_3_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 815
+    },
+    {
+        "name": "HW_5_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 820
+    },
+    {
+        "name": "HW_6_Task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 3004
+    },
+    {
+        "name": ".DS_Store",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 6148
+    },
+    {
+        "name": "HW_5_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 664
+    },
+    {
+        "name": "HW_3_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1623
+    },
+    {
+        "name": "HW_8_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 3005
+    },
+    {
+        "name": "HW_2_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1159
+    },
+    {
+        "name": "structure.csv",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 64763
+    },
+    {
+        "name": "HW_1_Task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1324
+    },
+    {
+        "name": "HW_4_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 4570
+    },
+    {
+        "name": "HW_4_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1419
+    },
+    {
+        "name": "HW_2_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1393
+    },
+    {
+        "name": "data.csv",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 119
+    },
+    {
+        "name": "structure.json",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 149770
+    },
+    {
+        "name": "README.md",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 17
+    },
+    {
+        "name": "HW_4_Task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 852
+    },
+    {
+        "name": "HW_1_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1423
+    },
+    {
+        "name": "HW_7_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1674
+    },
+    {
+        "name": "HW_7_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 3304
+    },
+    {
+        "name": "HW_1_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1390
+    },
+    {
+        "name": "HW_3_Task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 2495
+    },
+    {
+        "name": "HW_8_Task_3_main.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 676
+    },
+    {
+        "name": "HW_6_Task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 3540
+    },
+    {
+        "name": "HW_6_Task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 1084
+    },
+    {
+        "name": "gitignore.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 3078
+    },
+    {
+        "name": "HW_5_Task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 295
+    },
+    {
+        "name": "structure.pickle",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW",
+        "size": 36863
+    },
+    {
+        "name": ".git",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 57681
+    },
+    {
+        "name": "config",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 718
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 21
+    },
+    {
+        "name": "description",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 73
+    },
+    {
+        "name": "index",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 1810
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git",
+        "size": 36
+    },
+    {
+        "name": "objects",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects",
+        "size": 22969
+    },
+    {
+        "name": "0d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/0d",
+        "size": 416
+    },
+    {
+        "name": "01fc2f5a8455dd4df1ffcaf092215e221b515d",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/0d",
+        "size": 416
+    },
+    {
+        "name": "50",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/50",
+        "size": 241
+    },
+    {
+        "name": "73af1c74b67bbaedcf4d5f9602f2aab39eea3a",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/50",
+        "size": 241
+    },
+    {
+        "name": "68",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/68",
+        "size": 2778
+    },
+    {
+        "name": "3798fc55a124336ddf524c1eeb3d9097d373a6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/68",
+        "size": 1234
+    },
+    {
+        "name": "bc17f9ff2104a9d7b6777058bb4c343ca72609",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/68",
+        "size": 1544
+    },
+    {
+        "name": "9e",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/9e",
+        "size": 744
+    },
+    {
+        "name": "eef0ba00797a3a3384bcdd6e1d062570d57dc9",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/9e",
+        "size": 202
+    },
+    {
+        "name": "e1b9f0bebf055fb5763d87b9c8090a2cb4adb0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/9e",
+        "size": 542
+    },
+    {
+        "name": "04",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/04",
+        "size": 205
+    },
+    {
+        "name": "1d895c7b7b41ace99714958cc43001fdda6b70",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/04",
+        "size": 205
+    },
+    {
+        "name": "94",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/94",
+        "size": 623
+    },
+    {
+        "name": "b8565ac212fc4ca2e1a89d4f75a1f542172960",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/94",
+        "size": 623
+    },
+    {
+        "name": "05",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/05",
+        "size": 205
+    },
+    {
+        "name": "464c23e2cf248d3557daf5c12238f2e12645a6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/05",
+        "size": 205
+    },
+    {
+        "name": "02",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/02",
+        "size": 205
+    },
+    {
+        "name": "82cddee8ab1a2c0525b52560d891aa812dc6e9",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/02",
+        "size": 205
+    },
+    {
+        "name": "a3",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/a3",
+        "size": 586
+    },
+    {
+        "name": "9da277958487680a0156a6b09ae9328372a871",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/a3",
+        "size": 586
+    },
+    {
+        "name": "b3",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/b3",
+        "size": 695
+    },
+    {
+        "name": "cd7fd343da7dffbe20d6f5c7b197a383db36bc",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/b3",
+        "size": 204
+    },
+    {
+        "name": "6e6e208959e550a3f7986862be6dbb0247fb95",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/b3",
+        "size": 491
+    },
+    {
+        "name": "ae",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/ae",
+        "size": 581
+    },
+    {
+        "name": "cb74e77a107bce9e009ca5e176fc91fbb7714c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/ae",
+        "size": 581
+    },
+    {
+        "name": "e5",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/e5",
+        "size": 1237
+    },
+    {
+        "name": "1194c6cc447e0c8387004f13d3ecad60a1a5ef",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/e5",
+        "size": 187
+    },
+    {
+        "name": "88caed165a614eae6817795edf282480eaf83c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/e5",
+        "size": 1050
+    },
+    {
+        "name": "pack",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/pack",
+        "size": 0
+    },
+    {
+        "name": "8f",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/8f",
+        "size": 343
+    },
+    {
+        "name": "fd1c2feb931a757e0fb8074d77347e358cc048",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/8f",
+        "size": 343
+    },
+    {
+        "name": "86",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/86",
+        "size": 2232
+    },
+    {
+        "name": "8c020ec5e2d559d20c4f0637155c1f2677faf2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/86",
+        "size": 796
+    },
+    {
+        "name": "ab3b93e31dd033321be23f08232b427f218ad5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/86",
+        "size": 1027
+    },
+    {
+        "name": "bf4ba90f33561a782d26ca0996ce27fa3e10ee",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/86",
+        "size": 409
+    },
+    {
+        "name": "72",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/72",
+        "size": 54
+    },
+    {
+        "name": "d66014b7d2364d026759deb894fd9465330f04",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/72",
+        "size": 54
+    },
+    {
+        "name": "88",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/88",
+        "size": 1116
+    },
+    {
+        "name": "3b3ea3ce39d426157b571117dccca2ea1cc9e0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/88",
+        "size": 1116
+    },
+    {
+        "name": "9a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/9a",
+        "size": 619
+    },
+    {
+        "name": "fc834ebf597c700a119eb5fb099af1046eccc2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/9a",
+        "size": 619
+    },
+    {
+        "name": "09",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/09",
+        "size": 133
+    },
+    {
+        "name": "10ab5d16192be88d745e3a1a1fb30647d85193",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/09",
+        "size": 133
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/info",
+        "size": 0
+    },
+    {
+        "name": "3a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/3a",
+        "size": 690
+    },
+    {
+        "name": "97415a88edf587f843f8231c4a1945221429a0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/3a",
+        "size": 424
+    },
+    {
+        "name": "739908f2e5403879d96e1901c891253b5bea33",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/3a",
+        "size": 266
+    },
+    {
+        "name": "08",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/08",
+        "size": 205
+    },
+    {
+        "name": "e1dfe3d8cda35dc2094144169fbbe37829ea34",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/08",
+        "size": 205
+    },
+    {
+        "name": "99",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/99",
+        "size": 501
+    },
+    {
+        "name": "647f11837fd6d66c645e5af22b2c280882ed59",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/99",
+        "size": 501
+    },
+    {
+        "name": "55",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/55",
+        "size": 1487
+    },
+    {
+        "name": "799395e50dd289386002a248eefa3498ab6df3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/55",
+        "size": 1487
+    },
+    {
+        "name": "d3",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/d3",
+        "size": 622
+    },
+    {
+        "name": "1f0472155030acbc1e1fe839059526f274b94c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/d3",
+        "size": 622
+    },
+    {
+        "name": "d4",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/d4",
+        "size": 741
+    },
+    {
+        "name": "01815b7165c17bee8ea751c39753e9cb2d0fc3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/d4",
+        "size": 741
+    },
+    {
+        "name": "b7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/b7",
+        "size": 370
+    },
+    {
+        "name": "3f3ee9292aab61e6fe614a75c03605aef12853",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/b7",
+        "size": 370
+    },
+    {
+        "name": "e6",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/e6",
+        "size": 515
+    },
+    {
+        "name": "8fb4208c2ff5ede5243cca17b0c2ab03bc64f0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/e6",
+        "size": 515
+    },
+    {
+        "name": "cb",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/cb",
+        "size": 580
+    },
+    {
+        "name": "60461add75778df686a5d543ef581caedeaf0d",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/cb",
+        "size": 580
+    },
+    {
+        "name": "46",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/46",
+        "size": 182
+    },
+    {
+        "name": "85f5e728c1039b8f0c1626c9550acb6b2b107c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/46",
+        "size": 182
+    },
+    {
+        "name": "41",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/41",
+        "size": 420
+    },
+    {
+        "name": "d113b852f853100c2a978cf9e00f3cedb66c3a",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/41",
+        "size": 420
+    },
+    {
+        "name": "4a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/4a",
+        "size": 207
+    },
+    {
+        "name": "32aaf28e7994114ce2b74afbc7ee5d4c478d00",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/4a",
+        "size": 207
+    },
+    {
+        "name": "24",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/24",
+        "size": 1501
+    },
+    {
+        "name": "1d094ba40c79261238a7a95250f665869b2afa",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/24",
+        "size": 632
+    },
+    {
+        "name": "af204f977c95282e64a6e360e554cff06c1ed6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/24",
+        "size": 869
+    },
+    {
+        "name": "85",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/85",
+        "size": 33
+    },
+    {
+        "name": "4c3bc24cefc642d29f16159eb74e8efc83431c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/85",
+        "size": 33
+    },
+    {
+        "name": "71",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/71",
+        "size": 1257
+    },
+    {
+        "name": "efaf0dab79966cff329bcf9570fbd7ada9aa89",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/71",
+        "size": 1257
+    },
+    {
+        "name": "76",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/76",
+        "size": 645
+    },
+    {
+        "name": "e239574534d9d210c388d29059546235e589fe",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/objects/76",
+        "size": 645
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/info",
+        "size": 240
+    },
+    {
+        "name": "exclude",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/info",
+        "size": 240
+    },
+    {
+        "name": "logs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs",
+        "size": 7645
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs",
+        "size": 3256
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs",
+        "size": 4389
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 3003
+    },
+    {
+        "name": "HW_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 349
+    },
+    {
+        "name": "HW_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 349
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 349
+    },
+    {
+        "name": "HW_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 349
+    },
+    {
+        "name": "HW_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 348
+    },
+    {
+        "name": "HW_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 360
+    },
+    {
+        "name": "HW_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 539
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/heads",
+        "size": 360
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes",
+        "size": 1386
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 1386
+    },
+    {
+        "name": "HW_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "HW_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 308
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "hooks",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 23513
+    },
+    {
+        "name": "commit-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 896
+    },
+    {
+        "name": "pre-rebase.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 4898
+    },
+    {
+        "name": "pre-commit.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 1643
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 478
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 4726
+    },
+    {
+        "name": "pre-receive.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 544
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 1492
+    },
+    {
+        "name": "post-update.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 189
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 416
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 424
+    },
+    {
+        "name": "pre-push.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 1374
+    },
+    {
+        "name": "update.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 3650
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/hooks",
+        "size": 2783
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs",
+        "size": 656
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 328
+    },
+    {
+        "name": "HW_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "HW_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "tags",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/tags",
+        "size": 0
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes",
+        "size": 328
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 328
+    },
+    {
+        "name": "HW_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "HW_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "file_utils",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 1243
+    },
+    {
+        "name": "structure_utils.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 218
+    },
+    {
+        "name": "csv_utils.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 361
+    },
+    {
+        "name": "__init__.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 106
+    },
+    {
+        "name": "pickle_utils.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 253
+    },
+    {
+        "name": "json_utils.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/HW/file_utils",
+        "size": 305
+    },
+    {
+        "name": "7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 8207
+    },
+    {
+        "name": "6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 1045
+    },
+    {
+        "name": "2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 1067
+    },
+    {
+        "name": "3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 2348
+    },
+    {
+        "name": "file4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 2265
+    },
+    {
+        "name": "5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 971
+    },
+    {
+        "name": "main.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/7",
+        "size": 511
+    },
+    {
+        "name": "\u0434\u043e\u043a\u0438",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 151483481
+    },
+    {
+        "name": "numbers.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 634
+    },
+    {
+        "name": ".DS_Store",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 8196
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 4. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0424\u0443\u043d\u043a\u0446\u0438\u0438.docx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 532241
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 1. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041e\u0441\u043d\u043e\u0432\u044b Python.docx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 792770
+    },
+    {
+        "name": "~$\u0421\u0435\u043c\u0438\u043d\u0430\u0440 8. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0421\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f.pptx",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 165
+    },
+    {
+        "name": "_\u0421\u0435\u043c\u0438\u043d\u0430\u0440 5. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0418\u0442\u0435\u0440\u0430\u0442\u043e\u0440\u044b \u0438 \u0433\u0435\u043d\u0435\u0440\u0430\u0442\u043e\u0440\u044b.pptx",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 34610689
+    },
+    {
+        "name": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440 6. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041c\u043e\u0434\u0443\u043b\u0438.pptx",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 34819556
+    },
+    {
+        "name": "\u0421\u0435\u043c\u0438\u043d\u0430\u0440 8. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0421\u0435\u0440\u0438\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f.pptx",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 35633914
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 2. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u0442\u0438\u043f\u044b \u0434\u0430\u043d\u043d\u044b\u0445.pptx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 3622779
+    },
+    {
+        "name": "\u0422\u0435\u0441\u0442 \u043f\u0435\u0440\u0435\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u044f001.new_\u0447\u0434\u044b\u0447",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 8489
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 3. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438.docx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 571406
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 3. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0438.pptx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 3193687
+    },
+    {
+        "name": "_\u0421\u0435\u043c\u0438\u043d\u0430\u0440 7. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0424\u0430\u0438\u0306\u043b\u044b \u0438 \u0444\u0430\u0438\u0306\u043b\u043e\u0432\u0430\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430.pptx",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 34526178
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 2. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u041f\u0440\u043e\u0441\u0442\u044b\u0435 \u0442\u0438\u043f\u044b \u0434\u0430\u043d\u043d\u044b\u0445.docx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 526173
+    },
+    {
+        "name": "\u041b\u0435\u043a\u0446\u0438\u044f 4. \u041f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0432 Python. \u0424\u0443\u043d\u043a\u0446\u0438\u0438.pptx.pdf",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/\u0434\u043e\u043a\u0438",
+        "size": 2636604
+    },
+    {
+        "name": "lessons",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 164731
+    },
+    {
+        "name": "numbers.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 225
+    },
+    {
+        "name": ".DS_Store",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 6148
+    },
+    {
+        "name": "output.pickle",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 185
+    },
+    {
+        "name": "user_data.json",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 246
+    },
+    {
+        "name": "output.json",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 254
+    },
+    {
+        "name": "updated_user_data.json",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 281
+    },
+    {
+        "name": "results.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 168
+    },
+    {
+        "name": "data.csv",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 119
+    },
+    {
+        "name": "pseudo_names.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 63
+    },
+    {
+        "name": "README.md",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 22
+    },
+    {
+        "name": "user_data.pickle",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 134
+    },
+    {
+        "name": "updated_user_data.pickle",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 148
+    },
+    {
+        "name": "user_data.csv",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 56
+    },
+    {
+        "name": "gitignore.txt",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons",
+        "size": 3078
+    },
+    {
+        "name": "Lesson_7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 11396
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 1566
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 907
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 1735
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 1963
+    },
+    {
+        "name": "task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 2488
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 1794
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_7",
+        "size": 943
+    },
+    {
+        "name": "Lesson_6",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 14282
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 2561
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 407
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 1523
+    },
+    {
+        "name": "task_8.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 880
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 1737
+    },
+    {
+        "name": "task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 1639
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 3896
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_6",
+        "size": 1639
+    },
+    {
+        "name": "Lesson_1",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 4937
+    },
+    {
+        "name": "lesson_1_task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 1180
+    },
+    {
+        "name": "lesson_1_task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 466
+    },
+    {
+        "name": "lesson_1_task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 828
+    },
+    {
+        "name": "lesson_1_task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 1513
+    },
+    {
+        "name": "lesson_1_task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_1",
+        "size": 950
+    },
+    {
+        "name": "Lesson_8",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 11522
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 1713
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 1267
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 2583
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 1040
+    },
+    {
+        "name": "task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 823
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 1977
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_8",
+        "size": 2119
+    },
+    {
+        "name": ".git",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 85810
+    },
+    {
+        "name": "config",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 845
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 25
+    },
+    {
+        "name": "description",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 73
+    },
+    {
+        "name": "index",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 6522
+    },
+    {
+        "name": "COMMIT_EDITMSG",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git",
+        "size": 41
+    },
+    {
+        "name": "objects",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects",
+        "size": 44729
+    },
+    {
+        "name": "68",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/68",
+        "size": 1544
+    },
+    {
+        "name": "bc17f9ff2104a9d7b6777058bb4c343ca72609",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/68",
+        "size": 1544
+    },
+    {
+        "name": "57",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/57",
+        "size": 235
+    },
+    {
+        "name": "9becea801110d1370b12d2f38f5e9e5b78fc9f",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/57",
+        "size": 235
+    },
+    {
+        "name": "3b",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3b",
+        "size": 295
+    },
+    {
+        "name": "0172d8643fe37c45fdb7a57299ba9a062aa689",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3b",
+        "size": 295
+    },
+    {
+        "name": "3c",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3c",
+        "size": 184
+    },
+    {
+        "name": "70164672869c5b584b8f89101a855faa2924ac",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3c",
+        "size": 184
+    },
+    {
+        "name": "56",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/56",
+        "size": 529
+    },
+    {
+        "name": "b1f418b34006bd95eea670ff97473b97bef319",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/56",
+        "size": 529
+    },
+    {
+        "name": "58",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/58",
+        "size": 476
+    },
+    {
+        "name": "d57c625c2ad6599d72047ef44c96c6bd9a4dd2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/58",
+        "size": 476
+    },
+    {
+        "name": "67",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/67",
+        "size": 386
+    },
+    {
+        "name": "9e2f9723c48387abb490f832af4107ced211e6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/67",
+        "size": 386
+    },
+    {
+        "name": "93",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/93",
+        "size": 79
+    },
+    {
+        "name": "731ac63629ce079a2a2a3ab73557be406bef47",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/93",
+        "size": 79
+    },
+    {
+        "name": "94",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/94",
+        "size": 89
+    },
+    {
+        "name": "6c1e5ddc4c41b4d540cb77f55282a61eb7f34f",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/94",
+        "size": 89
+    },
+    {
+        "name": "9d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/9d",
+        "size": 732
+    },
+    {
+        "name": "b137145a81cddfc82c9354b15cdffd05cafc4b",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/9d",
+        "size": 732
+    },
+    {
+        "name": "b5",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b5",
+        "size": 207
+    },
+    {
+        "name": "3b6162ccbebf9841eec61793adc8eaaf21d879",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b5",
+        "size": 207
+    },
+    {
+        "name": "bb",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/bb",
+        "size": 290
+    },
+    {
+        "name": "8e46987779744f620781196d92324c69d4a53e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/bb",
+        "size": 201
+    },
+    {
+        "name": "4406e8fdd3ca99293295ae656ce86fcb17c522",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/bb",
+        "size": 89
+    },
+    {
+        "name": "be",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/be",
+        "size": 1063
+    },
+    {
+        "name": "6b0735311dbee225c7c648446182a7c232c960",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/be",
+        "size": 956
+    },
+    {
+        "name": "8f8938b0353bafb16acd54b8aa9e3d7327e8e8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/be",
+        "size": 107
+    },
+    {
+        "name": "b3",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b3",
+        "size": 747
+    },
+    {
+        "name": "02f18d465c7bf0a9af2ee7ba9f7945373a63b7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b3",
+        "size": 747
+    },
+    {
+        "name": "df",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/df",
+        "size": 220
+    },
+    {
+        "name": "b52d2ef2c0dfe7a630c333fea0cbad65882ef8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/df",
+        "size": 220
+    },
+    {
+        "name": "da",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/da",
+        "size": 1194
+    },
+    {
+        "name": "97b4e8cd160ee164639a11fbf7f36160ba93e3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/da",
+        "size": 1194
+    },
+    {
+        "name": "d1",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d1",
+        "size": 364
+    },
+    {
+        "name": "57d715e14e53e6e1120b486360c2a687b130cb",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d1",
+        "size": 364
+    },
+    {
+        "name": "d8",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d8",
+        "size": 451
+    },
+    {
+        "name": "c4fd72f3e6c4a2c3d8137eb3caebd8c2162cfc",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d8",
+        "size": 451
+    },
+    {
+        "name": "e5",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e5",
+        "size": 132
+    },
+    {
+        "name": "2bd210678f8ce3b06ec726acf1e1bf78b6534c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e5",
+        "size": 132
+    },
+    {
+        "name": "f4",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f4",
+        "size": 157
+    },
+    {
+        "name": "7bf97e0a4fecd7a59e44af0b7288ffca1fb844",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f4",
+        "size": 157
+    },
+    {
+        "name": "fd",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/fd",
+        "size": 170
+    },
+    {
+        "name": "bf2d4acc725ca433f5d9d5db660401bc716368",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/fd",
+        "size": 170
+    },
+    {
+        "name": "ca",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/ca",
+        "size": 849
+    },
+    {
+        "name": "a00b59b5ab4b7cbc5f3058d614fcd18ac5b3e7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/ca",
+        "size": 849
+    },
+    {
+        "name": "e4",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e4",
+        "size": 1283
+    },
+    {
+        "name": "55cbda231a2353dcfcc505ba27f3b31c705537",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e4",
+        "size": 212
+    },
+    {
+        "name": "fe65f8b4d4910857a4c6532b82a2c8a50c17d5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e4",
+        "size": 673
+    },
+    {
+        "name": "ea60d8675a6e783d25a087b82aa29c2974ff8c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e4",
+        "size": 398
+    },
+    {
+        "name": "ec",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/ec",
+        "size": 568
+    },
+    {
+        "name": "1159821909d11aef5032010d0b4f4ee241733e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/ec",
+        "size": 568
+    },
+    {
+        "name": "4e",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/4e",
+        "size": 526
+    },
+    {
+        "name": "5a513b61cd2479571c224594f8008c9deea4d5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/4e",
+        "size": 526
+    },
+    {
+        "name": "18",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/18",
+        "size": 277
+    },
+    {
+        "name": "e981ef38cad74b05633b7001f43cedaab30bff",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/18",
+        "size": 277
+    },
+    {
+        "name": "27",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/27",
+        "size": 356
+    },
+    {
+        "name": "ec9572d55ff2e299f844674d8d6301b9cebab6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/27",
+        "size": 356
+    },
+    {
+        "name": "pack",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/pack",
+        "size": 0
+    },
+    {
+        "name": "42",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/42",
+        "size": 1552
+    },
+    {
+        "name": "d80eb561fda8cd9a11593ffe22689d38b543bb",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/42",
+        "size": 1142
+    },
+    {
+        "name": "91d6ade212b8c1e3ebf441093518d9a57c66b8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/42",
+        "size": 410
+    },
+    {
+        "name": "89",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/89",
+        "size": 260
+    },
+    {
+        "name": "2e77b1ce17a5ed59d138720e30dd8836863d2c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/89",
+        "size": 260
+    },
+    {
+        "name": "45",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/45",
+        "size": 718
+    },
+    {
+        "name": "1686a6a4a630b16677a7d7392f46a66d510c81",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/45",
+        "size": 718
+    },
+    {
+        "name": "1f",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1f",
+        "size": 151
+    },
+    {
+        "name": "3f7685ac308a76e2cd0ee5bac9de6f32752df5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1f",
+        "size": 151
+    },
+    {
+        "name": "87",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/87",
+        "size": 212
+    },
+    {
+        "name": "82b6911d0465389fd926dbd7b6d6cd6f7407c0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/87",
+        "size": 212
+    },
+    {
+        "name": "74",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/74",
+        "size": 209
+    },
+    {
+        "name": "e4fc3ad488e334460ecb1b9f00fd183f0c2865",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/74",
+        "size": 209
+    },
+    {
+        "name": "8a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8a",
+        "size": 624
+    },
+    {
+        "name": "52c2ea5755c599ad8bb876dce0d3c9ad4ea1bc",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8a",
+        "size": 624
+    },
+    {
+        "name": "10",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/10",
+        "size": 315
+    },
+    {
+        "name": "123ad21f0393d427f12874ab8b428c25d15569",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/10",
+        "size": 315
+    },
+    {
+        "name": "75",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/75",
+        "size": 790
+    },
+    {
+        "name": "bc5ca9fc6aa700eb5137e06a61f49e5ec22281",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/75",
+        "size": 205
+    },
+    {
+        "name": "ab0f982af6937b1a9a173b71db441e2e468b01",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/75",
+        "size": 585
+    },
+    {
+        "name": "81",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/81",
+        "size": 524
+    },
+    {
+        "name": "d8566e687341dbbb94492d56ca2ca056a22fc4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/81",
+        "size": 524
+    },
+    {
+        "name": "86",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/86",
+        "size": 388
+    },
+    {
+        "name": "2f1faabaa253c6640d157f9fe31766c1288ad3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/86",
+        "size": 388
+    },
+    {
+        "name": "2f",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/2f",
+        "size": 1499
+    },
+    {
+        "name": "49b69433d6f949945fb623c7e330df8ba3af68",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/2f",
+        "size": 1499
+    },
+    {
+        "name": "9f",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/9f",
+        "size": 966
+    },
+    {
+        "name": "b444a9c216aa7bed6922399693eded4f48c9f1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/9f",
+        "size": 446
+    },
+    {
+        "name": "31cc69f776702a35ab9d148cb6572203f52ee6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/9f",
+        "size": 520
+    },
+    {
+        "name": "07",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/07",
+        "size": 142
+    },
+    {
+        "name": "b571a2ee73e9c5c44aabe7a591d982d84f2604",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/07",
+        "size": 142
+    },
+    {
+        "name": "38",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/38",
+        "size": 38
+    },
+    {
+        "name": "b8cdc625c519bba3691d7d18d0da2d775a3016",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/38",
+        "size": 38
+    },
+    {
+        "name": "00",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/00",
+        "size": 1129
+    },
+    {
+        "name": "6215251452b4846472811ebf53d45db582daf7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/00",
+        "size": 286
+    },
+    {
+        "name": "6949d762aa64dcf0bdaf1135b2acb90b7e7256",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/00",
+        "size": 843
+    },
+    {
+        "name": "5d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5d",
+        "size": 454
+    },
+    {
+        "name": "bf55d037e964007cccb69d71b1208e108cc419",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5d",
+        "size": 454
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/info",
+        "size": 0
+    },
+    {
+        "name": "96",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/96",
+        "size": 1003
+    },
+    {
+        "name": "48f2df99978a76c3a8a50bc2b62e702ebba2d0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/96",
+        "size": 796
+    },
+    {
+        "name": "cc7882f97711e7c73d4f35893745473ec4614e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/96",
+        "size": 207
+    },
+    {
+        "name": "3a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3a",
+        "size": 469
+    },
+    {
+        "name": "96f9c0aa4903e0602ee49b0464436519fb9db0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/3a",
+        "size": 469
+    },
+    {
+        "name": "54",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/54",
+        "size": 342
+    },
+    {
+        "name": "eea011b465a945c808994f829f60420366166c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/54",
+        "size": 342
+    },
+    {
+        "name": "98",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/98",
+        "size": 1435
+    },
+    {
+        "name": "64dba8ed4b230d12fb841b6c1d32a7728c7f53",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/98",
+        "size": 928
+    },
+    {
+        "name": "d8bab65aaf4dabe04d4687e8c1ebd85cffb631",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/98",
+        "size": 247
+    },
+    {
+        "name": "029eededb86a978907ce9f33458d2d9ce050b7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/98",
+        "size": 260
+    },
+    {
+        "name": "5e",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5e",
+        "size": 212
+    },
+    {
+        "name": "db8340b2649ec2c41a6b78f525ece9319f3c7b",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5e",
+        "size": 212
+    },
+    {
+        "name": "5b",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5b",
+        "size": 1143
+    },
+    {
+        "name": "1c44b47da718544b4c908dbe5bb3cdabfb9c0e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/5b",
+        "size": 1143
+    },
+    {
+        "name": "37",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/37",
+        "size": 497
+    },
+    {
+        "name": "ae1f5edbbe5bb5ba9d2805e46fe1d980a21a71",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/37",
+        "size": 497
+    },
+    {
+        "name": "08",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/08",
+        "size": 412
+    },
+    {
+        "name": "4664ece444b246989878f3a752252f086916a6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/08",
+        "size": 412
+    },
+    {
+        "name": "6d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/6d",
+        "size": 206
+    },
+    {
+        "name": "fe453f2ed820f6513803b42a2c5100ada54755",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/6d",
+        "size": 206
+    },
+    {
+        "name": "06",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/06",
+        "size": 1029
+    },
+    {
+        "name": "6f08c7603b8a73ce66f7543bc96b1201aeaacc",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/06",
+        "size": 1029
+    },
+    {
+        "name": "6c",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/6c",
+        "size": 566
+    },
+    {
+        "name": "5472680aebcf2d9e0328e745033713ca51e82d",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/6c",
+        "size": 566
+    },
+    {
+        "name": "39",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/39",
+        "size": 1580
+    },
+    {
+        "name": "833b36dc37cd3179c3b1a94d0ec63ef1c4fcc7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/39",
+        "size": 447
+    },
+    {
+        "name": "ef88aeb741a7e21737b95c5eb61b8caa1f35e1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/39",
+        "size": 176
+    },
+    {
+        "name": "db4b6eac1070f316e6e60197c15e0a63139f8c",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/39",
+        "size": 957
+    },
+    {
+        "name": "97",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/97",
+        "size": 523
+    },
+    {
+        "name": "affee198bf28a2861acabb9d5f9fa7836e7e65",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/97",
+        "size": 523
+    },
+    {
+        "name": "0f",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/0f",
+        "size": 169
+    },
+    {
+        "name": "551ff859643ef47fd97da8ce46d425f73484d7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/0f",
+        "size": 169
+    },
+    {
+        "name": "bf",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/bf",
+        "size": 272
+    },
+    {
+        "name": "8d959036139c36f8293ba81086fadcd882e987",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/bf",
+        "size": 272
+    },
+    {
+        "name": "a7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/a7",
+        "size": 207
+    },
+    {
+        "name": "911902f156dd54b57fcd31e6601dfd233a4bba",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/a7",
+        "size": 207
+    },
+    {
+        "name": "b8",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b8",
+        "size": 402
+    },
+    {
+        "name": "33c371a7e78a19ca09e81073fbab952ef94a1e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b8",
+        "size": 402
+    },
+    {
+        "name": "d2",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d2",
+        "size": 677
+    },
+    {
+        "name": "05c31e3707258d0c061a06c71d1f55a770c793",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/d2",
+        "size": 677
+    },
+    {
+        "name": "b7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b7",
+        "size": 1057
+    },
+    {
+        "name": "7335f55234d1576443d99584bd8f62564386d6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b7",
+        "size": 346
+    },
+    {
+        "name": "10f243d43be21ead8d0dfbc48a2d41178a767e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b7",
+        "size": 490
+    },
+    {
+        "name": "9e2000c437d1ae7d7a5a75a1c3432721af1a53",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b7",
+        "size": 221
+    },
+    {
+        "name": "de",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/de",
+        "size": 460
+    },
+    {
+        "name": "69122601086b42f4ae8a2dea244add1de6f004",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/de",
+        "size": 460
+    },
+    {
+        "name": "b9",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b9",
+        "size": 994
+    },
+    {
+        "name": "de634c924482588a3650aba4b4261de86657d2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b9",
+        "size": 283
+    },
+    {
+        "name": "d9000ff2dcd9fbd6c67de47c45121190055d79",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/b9",
+        "size": 711
+    },
+    {
+        "name": "a1",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/a1",
+        "size": 528
+    },
+    {
+        "name": "422a8276ca1154a564fe656167e6dd07c2f74d",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/a1",
+        "size": 528
+    },
+    {
+        "name": "cc",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cc",
+        "size": 462
+    },
+    {
+        "name": "f239f88dc35723edeb545b15b6b313196cffad",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cc",
+        "size": 402
+    },
+    {
+        "name": "defb57c1a497db7d614448bd5b40bc6f80e083",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cc",
+        "size": 60
+    },
+    {
+        "name": "f9",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f9",
+        "size": 459
+    },
+    {
+        "name": "c57bcbf6372070c2bf1bfe94cdefe8c42729d1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f9",
+        "size": 459
+    },
+    {
+        "name": "f7",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f7",
+        "size": 491
+    },
+    {
+        "name": "0eeefd8f0d40a0ea98b5c1122488ea41d988fe",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f7",
+        "size": 491
+    },
+    {
+        "name": "f6",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f6",
+        "size": 54
+    },
+    {
+        "name": "cff2aca29f0e02d2438c54314fbe18d6ed0ee0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/f6",
+        "size": 54
+    },
+    {
+        "name": "e9",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e9",
+        "size": 427
+    },
+    {
+        "name": "ef44112e7b0a2f105f0dd1939c4551e5460f65",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/e9",
+        "size": 427
+    },
+    {
+        "name": "cb",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cb",
+        "size": 372
+    },
+    {
+        "name": "b17258937ac67b7ea9f011429591aa075a2c45",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cb",
+        "size": 240
+    },
+    {
+        "name": "c351aeaf1d994f102f90b2dfa2e0fbb90bbf78",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/cb",
+        "size": 132
+    },
+    {
+        "name": "1b",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1b",
+        "size": 228
+    },
+    {
+        "name": "476187024cae164098595909daa89dd982cad9",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1b",
+        "size": 228
+    },
+    {
+        "name": "4a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/4a",
+        "size": 238
+    },
+    {
+        "name": "ffa63ab33568ceb2c8e9e51d2520e0d6f50d9e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/4a",
+        "size": 238
+    },
+    {
+        "name": "24",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/24",
+        "size": 379
+    },
+    {
+        "name": "fd820b4b76d91c63208f3c958199774ce2c3a9",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/24",
+        "size": 379
+    },
+    {
+        "name": "8d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8d",
+        "size": 467
+    },
+    {
+        "name": "15822b4ad8bff10ce8c1d5294c46126939e1c9",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8d",
+        "size": 467
+    },
+    {
+        "name": "8c",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8c",
+        "size": 804
+    },
+    {
+        "name": "d5d4659fb1928b14190ab122061e1b1bd3f5a0",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8c",
+        "size": 804
+    },
+    {
+        "name": "1d",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1d",
+        "size": 464
+    },
+    {
+        "name": "c96d0cfa96dc94503f80bccb3f5744bd232b2a",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/1d",
+        "size": 464
+    },
+    {
+        "name": "76",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/76",
+        "size": 853
+    },
+    {
+        "name": "2eed02c5eb869621fc864fdaa72fc84edf897e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/76",
+        "size": 853
+    },
+    {
+        "name": "8b",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8b",
+        "size": 213
+    },
+    {
+        "name": "147e5cc0bc080b02f6858478efbd918bddfb67",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8b",
+        "size": 213
+    },
+    {
+        "name": "7a",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/7a",
+        "size": 760
+    },
+    {
+        "name": "edd8622a1a4143a46cfa837ff279a857ee7be3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/7a",
+        "size": 760
+    },
+    {
+        "name": "8e",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8e",
+        "size": 293
+    },
+    {
+        "name": "f0e2a5f53fffaa7bcab61f764a7828e055ba2e",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/8e",
+        "size": 293
+    },
+    {
+        "name": "22",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/22",
+        "size": 208
+    },
+    {
+        "name": "bb2e5343d1b61570be18c2b1c2aec049b1738d",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/objects/22",
+        "size": 208
+    },
+    {
+        "name": "info",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/info",
+        "size": 240
+    },
+    {
+        "name": "exclude",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/info",
+        "size": 240
+    },
+    {
+        "name": "logs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs",
+        "size": 9043
+    },
+    {
+        "name": "HEAD",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs",
+        "size": 3917
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs",
+        "size": 5126
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 3586
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "Lesson_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 360
+    },
+    {
+        "name": "Lesson_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "lesson_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 373
+    },
+    {
+        "name": "Lesson_8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 360
+    },
+    {
+        "name": "Lesson_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "Lesson_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "lesson_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 375
+    },
+    {
+        "name": "Lesson_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/heads",
+        "size": 353
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes",
+        "size": 1540
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 1540
+    },
+    {
+        "name": "Lesson_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "Lesson_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "lesson_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 308
+    },
+    {
+        "name": "Lesson_8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "Lesson_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "Lesson_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "lesson_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "Lesson_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/logs/refs/remotes/origin",
+        "size": 154
+    },
+    {
+        "name": "hooks",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 23513
+    },
+    {
+        "name": "commit-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 896
+    },
+    {
+        "name": "pre-rebase.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 4898
+    },
+    {
+        "name": "pre-commit.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 1643
+    },
+    {
+        "name": "applypatch-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 478
+    },
+    {
+        "name": "fsmonitor-watchman.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 4726
+    },
+    {
+        "name": "pre-receive.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 544
+    },
+    {
+        "name": "prepare-commit-msg.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 1492
+    },
+    {
+        "name": "post-update.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 189
+    },
+    {
+        "name": "pre-merge-commit.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 416
+    },
+    {
+        "name": "pre-applypatch.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 424
+    },
+    {
+        "name": "pre-push.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 1374
+    },
+    {
+        "name": "update.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 3650
+    },
+    {
+        "name": "push-to-checkout.sample",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/hooks",
+        "size": 2783
+    },
+    {
+        "name": "refs",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs",
+        "size": 779
+    },
+    {
+        "name": "heads",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 410
+    },
+    {
+        "name": "HW_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "lesson_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "lesson_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "Lesson_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/heads",
+        "size": 41
+    },
+    {
+        "name": "tags",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/tags",
+        "size": 0
+    },
+    {
+        "name": "remotes",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes",
+        "size": 369
+    },
+    {
+        "name": "origin",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 369
+    },
+    {
+        "name": "Lesson_7",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_6",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "lesson_1",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_8",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "main",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_4",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_3",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "lesson_2",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_5",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/.git/refs/remotes/origin",
+        "size": 41
+    },
+    {
+        "name": "Lesson_4",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 6943
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 997
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 903
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 778
+    },
+    {
+        "name": "task_8.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 978
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 959
+    },
+    {
+        "name": "task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 862
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 788
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_4",
+        "size": 678
+    },
+    {
+        "name": "Lesson_3",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 6750
+    },
+    {
+        "name": "lesson_3_task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 546
+    },
+    {
+        "name": "lesson_3_task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 807
+    },
+    {
+        "name": "lesson_3_task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 761
+    },
+    {
+        "name": "lesson_3_task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 906
+    },
+    {
+        "name": "lesson_3_task_8.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 1965
+    },
+    {
+        "name": "lesson_3_task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 462
+    },
+    {
+        "name": "lesson_3_task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 625
+    },
+    {
+        "name": "lesson_3_task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_3",
+        "size": 678
+    },
+    {
+        "name": "Lesson_2",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 7104
+    },
+    {
+        "name": "lesson_2_task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 1360
+    },
+    {
+        "name": "lesson_2_task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 919
+    },
+    {
+        "name": "lesson_2_task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 835
+    },
+    {
+        "name": "lesson_2_task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 299
+    },
+    {
+        "name": "lesson_2_task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 787
+    },
+    {
+        "name": "lesson_2_task_6_ATM.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_2",
+        "size": 2904
+    },
+    {
+        "name": "Lesson_5",
+        "type": "directory",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 4860
+    },
+    {
+        "name": "task_5.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 494
+    },
+    {
+        "name": "task_1.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 1137
+    },
+    {
+        "name": "task_4.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 403
+    },
+    {
+        "name": "task_3.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 891
+    },
+    {
+        "name": "task_7.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 792
+    },
+    {
+        "name": "task_6.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 715
+    },
+    {
+        "name": "task_2.py",
+        "type": "file",
+        "path": "/Users/pelmeshka/Documents/\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435/Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435/lessons/Lesson_5",
+        "size": 428
+    }
+]
